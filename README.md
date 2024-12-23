@@ -7,11 +7,15 @@ With the spirit of reproducible research, this repository contains all the codes
 If you find our work useful in your research, please consider citing our [paper](https://www.sciencedirect.com/science/article/pii/S2772442522000090).
 
 ```
-@article{xu2024mentor,
-  title={MENTOR: Multi-level Self-supervised Learning for Multimodal Recommendation},
-  author={Xu, Jinfeng and Chen, Zheyu and Yang, Shuo and Li, Jinze and Wang, Hewei and Ngai, Edith C-H},
-  journal={arXiv preprint arXiv:2402.19407},
-  year={2024}
+@article{DEV2022100032,
+title = {A predictive analytics approach for stroke prediction using machine learning and neural networks},
+journal = {Healthcare Analytics},
+volume = {2},
+pages = {100032},
+year = {2022},
+issn = {2772-4425},
+doi = {https://doi.org/10.1016/j.health.2022.100032},
+author = {Soumyabrata Dev and Hewei Wang and Chidozie Shamrock Nwosu and Nishtha Jain and Bharadwaj Veeravalli and Deepu John},
 }
 ```
 
