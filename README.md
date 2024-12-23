@@ -4,8 +4,18 @@ With the spirit of reproducible research, this repository contains all the codes
 
 > Soumyabrata Dev, Hewei Wang, Chidozie Shamrock Nwosu, Nishtha Jain, Bharadwaj Veeravalli, and Deepu John, A predictive analytics approach for stroke prediction using machine learning and neural networks, Healthcare Analytics, 2022.
 
-Please cite the above paper if you intend to use whole/part of the code. This code is only for academic and research purposes.
+If you find our work useful in your research, please consider citing our [paper](https://www.sciencedirect.com/science/article/pii/S2772442522000090).
 
+```
+@article{xu2024mentor,
+  title={MENTOR: Multi-level Self-supervised Learning for Multimodal Recommendation},
+  author={Xu, Jinfeng and Chen, Zheyu and Yang, Shuo and Li, Jinze and Wang, Hewei and Ngai, Edith C-H},
+  journal={arXiv preprint arXiv:2402.19407},
+  year={2024}
+}
+```
+
+This code is only for academic and research purposes.
 
 ## Code Organization
 All codes are written in `R` and `python`. 
